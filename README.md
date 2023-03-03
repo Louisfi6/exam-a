@@ -2,7 +2,7 @@
 
 
 
-J'ai changé le code pour que cela un peu plus simple.
+J'ai changé le code pour que cela soit un peu plus simple.
 
 
 J'ai crée une liste de 1 à 9 puis je l'ai mélangé avec la fonction melangerListe()
